@@ -89,11 +89,9 @@ Celebration, Debrief & Review
 * [Mentoring Standard, Research Publications](http://www.mentoringstandard.com/researchpublications/)
 * [Great Mentorship? It's All About Self-Awareness And Seeking Out A Sounding Board](http://www.inc.com/kelly-hoey/great-mentorship-it-s-all-about-self-awareness-and-seeking-out-a-sounding-board.html)
 
-
-Mozilla Outreachy Program Mentoring (Deck)
-https://docs.google.com/presentation/d/1SMP2E9jcZGop3YvV25Soidj4msyuJC6FD2-M7_JgDJM/edit#slide=id.ga39cad493_0_10
-
-Designed Alliance - social contract: https://docs.google.com/document/d/1MJMaYnm2aQkLm0Fr1cGIq9ipWkwRNv_6oL9-X1qxkMA/edit
+More resources:
+* [Mozilla Outreachy Program Mentoring (Deck)](https://docs.google.com/presentation/d/1SMP2E9jcZGop3YvV25Soidj4msyuJC6FD2-M7_JgDJM/edit#slide=id.ga39cad493_0_10)
+* [Designed Alliance - social contract](https://docs.google.com/document/d/1MJMaYnm2aQkLm0Fr1cGIq9ipWkwRNv_6oL9-X1qxkMA/edit)
 
 Giving Feedback:
 
