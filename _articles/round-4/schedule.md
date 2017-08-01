@@ -59,6 +59,7 @@ There are probably multiple ways in which you collect data. Consider the followi
 Depending on the tools you use for data collection -- whether they are 3rd-party platforms or your own -- multiple different people and different organizations will have access to that data, and you can’t always supervise their security procedures. This means that your membership data may be leaving a digital footprint that is larger than you thought.  
 
 Consider the tools you use for data collection and management:
+
 **Data Collection**
 - [ ] What data will the company behind the tool collect or access?
 - [ ] Does it include personally identifiable data like full name, address, phone number, email address?
@@ -84,7 +85,7 @@ Answering “why are you collecting this data?” is the most important part of 
 - [ ] How long do you need the data? Are you keeping it for a short time or forever? If the latter, is there a point at which it will no longer be valuable?
 
 
-### D. When do you delete the data?
+#### D. When do you delete the data?
 Delete the data when it’s no longer relevant.  This will always depend on the specific data set and its purpose.  
 
 It’s always worthwhile to consider this before you collect the data.  In some cases, it may be very obvious that you only need the data for a certain number of days or months (for example, if you specifically collect home addresses to send donation premiums, you probably don’t need that data after the shipments are sent).  In other cases, you may want to schedule a reminder to check whether the data set remains relevant, and if not, you can delete parts of it. 
