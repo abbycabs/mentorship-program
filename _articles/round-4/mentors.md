@@ -119,5 +119,5 @@ Consider the following:
    * If yes, did you publicly share this policy with your membership, so they can make a more informed decision when choosing to share their data with you? Many organizations share this information in a privacy policy or transparency report.
    * If no, consider creating one. 
 ---
-Next: Engage Your Membership Base -->
+### Next: Engage Your Membership Base -->
 
