@@ -92,3 +92,5 @@ It’s always worthwhile to consider this before you collect the data.  In some 
 * **Emails:** To keep your list relevant, it’s useful to check if there are any emails that have not engaged with your content for 12 or more months. If so, sending out a reminder or two and asking that they “opt in” again could be helpful. If they don’t respond in a certain period of time, those emails should be deleted. Data that’s been deleted can’t be compromised!
 * **Survey Results/Data:** What will you do with the actual dataset after you collate the results? In many cases, the raw dataset is no longer needed or used within 3-6 months after collecting; consider deleting the survey results to keep your data relevant and timely.
 
+---
+### Next:Build in Security -->
