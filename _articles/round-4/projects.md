@@ -37,6 +37,6 @@ There is no “correct” format for a transparency report.  It should be descri
 - [ ] Number of governmental requests for customer information 
 - [ ] Political offices and parties endorsed by CREDO
 - [ ] Recipients of grantmaking
-[Take a look here.](http://www.credomobile.com/transparency) If you are often requested information by the government and don't have a transparency report, why not publish your own?
+>[Take a look here.](http://www.credomobile.com/transparency) If you are often requested information by the government and don't have a transparency report, why not publish your own?
 ---
 
